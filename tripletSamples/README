@@ -1,0 +1,4 @@
+To compile:
+    (No need to compile.)
+To run:
+    python TripletSum.py dataX sumVal

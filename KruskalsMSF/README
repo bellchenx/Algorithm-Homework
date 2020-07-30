@@ -1,0 +1,4 @@
+Compile:
+    g++ -o KruskalsMSF KruskalsMSF.cpp
+Run:
+    ./KruskalsMSF graphX

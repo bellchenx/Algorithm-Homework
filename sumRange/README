@@ -1,0 +1,4 @@
+Compile:
+    g++ -o sumRange sumRange.cpp
+Run:
+    ./sumRange dataX rangeX
